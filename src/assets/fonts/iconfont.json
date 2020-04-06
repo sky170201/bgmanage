@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1420860",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1433866",
+      "name": "user",
+      "font_class": "user1",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "6664187",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7712648",
+      "name": "data",
+      "font_class": "data",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "11808033",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "13123466",
+      "name": "icon-dingdan",
+      "font_class": "icon-dingdan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13875014",
+      "name": "shop bag",
+      "font_class": "shopbag",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
